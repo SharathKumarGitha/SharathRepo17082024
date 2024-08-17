@@ -12,6 +12,7 @@ public class NormalSpringBootProject1Application {
 		System.out.println("this is line number 1");
 		
 		System.out.println("this is line number 2");
+		System.out.println("this is line number 3");
 	}
 
 }
